@@ -1,0 +1,19 @@
+{
+  "name": "vheck-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voyagers-kr/vheck.git"
+  },
+  "author": "Team Voyagers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voyagers-kr/vheck/issues"
+  },
+  "homepage": "https://github.com/voyagers-kr/vheck#readme"
+}
