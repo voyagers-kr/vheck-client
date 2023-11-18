@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voyagers-kr/vheck.git"
+    "url": "git+https://github.com/voyagers-kr/vheck-client.git"
   },
   "author": "Team Voyagers",
   "license": "MIT",
