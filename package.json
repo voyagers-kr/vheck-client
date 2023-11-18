@@ -1,17 +1,19 @@
 {
-  "name": "vheck-client",
+  "name": "vheck",
   "version": "1.0.0",
   "description": "",
-  "engines": {
-    "node": ">= 0.10.0"
+  "bin": {
+    "log-run": "bin/cli.js"
   },
-  "main": "app.js",
-  "scripts": {
-    "start" : "node app.js"
-  },
+  "keywords": [
+    "sample"
+  ],
+  "files": [
+    "cli"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voyagers-kr/vheck-client.git"
+    "url": "https://github.com/voyagers-kr/vheck-client.git"
   },
   "author": "Team Voyagers",
   "license": "MIT",
@@ -20,6 +22,7 @@
   },
   "homepage": "https://github.com/voyagers-kr/vheck#readme",
   "dependencies": {
+    "commander": "^11.1.0",
     "express": "^4.18.2"
   }
 }
